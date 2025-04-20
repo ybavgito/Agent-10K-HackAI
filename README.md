@@ -25,3 +25,6 @@ Agent 10K is a multimodal AI-powered Streamlit app that analyzes corporate annua
 - **FAISS** – vector storage for text & images
 - **PyMuPDF / PIL / ReportLab** – PDF parsing, image extraction, and generation
 - **BeautifulSoup** – headline scraping for sentiment analysis
+
+[![Demo Video](https://img.youtube.com/vi/zE6Dg4B4_Pg/0.jpg)](https://youtu.be/zE6Dg4B4_Pg)
+
